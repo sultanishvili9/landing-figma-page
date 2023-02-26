@@ -1,0 +1,432 @@
+body{
+    background-color: #F2F2F2;
+    max-width: 375px;
+    height: 100%;
+    
+}
+
+.heading-N1{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.skilled{
+    padding: 22px 0 0 16px;
+    width: 89px;
+    height: 35px;
+    font-family: 'Plus Jakarta Sans';
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 35.28px;
+    color: #13183F;
+
+
+}
+
+.button-N1{
+    background-color: #13183F;
+    width: 140px;
+    height: 48px;
+    border-radius: 28px;
+    border-style: none;
+    color: white;
+    margin: 16px 16px 0 0 ;
+    font-family: 'Plus Jakarta Sans';
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 700;
+    
+}
+
+.intro{
+    margin-top: 45px;
+    display: flex;
+    margin-left: 16px;
+    
+}
+
+.maximize-container{
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+
+}
+
+.heading-N2{
+    width: 343px;
+    height: 101px;
+    font-family: 'Plus Jakarta Sans';
+    font-size: 40px;
+    line-height: 50.4px;
+    font-weight: 800;
+    color: #13183F;
+}
+
+.paragraph{
+    width: 343px;
+    height: 78px;
+    font-family: 'Plus Jakarta Sans';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    color: #83869A;
+}
+
+.button-N2{
+    background: linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%);
+    width: 167px;
+    height: 56px;
+    border-radius: 31.5px;
+    border-style: none;
+    color: #FFFFFF;
+    font-family: 'Plus Jakarta Sans';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 26px;
+
+
+}   
+
+.mobile-img{
+   display: flex;
+   justify-content: center;
+   margin-top: 10%;
+}
+
+.popular-courses{
+    width: 343px;
+    height: 120px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%);
+    
+}
+
+.all-cards{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 16px;
+    gap: 40px;
+
+}
+
+.course-text{
+    width: 286px;
+    height: 64px;
+    margin-top: 24px;
+    margin-left: 28px;
+    color: #FFFFFF;
+    font-family: 'Plus Jakarta Sans';
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 32px;
+
+}
+
+.card{
+    width: 343px;
+    height: 259px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+
+}
+
+.icon{
+    margin-top: -24px;
+    margin-left: 28px;
+}
+
+.card-heading1{
+    width: 101px;
+    height: 25px;
+    font-family: 'Plus Jakarta Sans';
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 25.2px;
+    color: #13183F;
+    margin-left: 28px;
+    margin-top: 24px;
+
+}
+
+.card-heading2{
+    width: 68px;
+    height: 25px;
+    font-family: 'Plus Jakarta Sans';
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 25.2px;
+    color: #13183F;
+    margin-left: 28px;
+    margin-top: 24px;
+
+}
+
+.card-heading3{
+    width: 129px;
+    height: 25px;
+    font-family: 'Plus Jakarta Sans';
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 25.2px;
+    color: #13183F;
+    margin-left: 28px;
+    margin-top: 24px;
+
+}
+
+.card-heading4{
+    width: 70px;
+    height: 25px;
+    font-family: 'Plus Jakarta Sans';
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 25.2px;
+    color: #13183F;
+    margin-left: 28px;
+    margin-top: 24px;
+
+}
+
+.card-heading5{
+    width: 87px;
+    height: 25px;
+    font-family: 'Plus Jakarta Sans';
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 25.2px;
+    color: #13183F;
+    margin-left: 28px;
+    margin-top: 24px;
+
+}
+
+.icon-paragraph1{
+    width: 286px;
+    height: 78px;
+    margin-left: 28px;
+    margin-top: 16px;
+    font-family: 'Plus Jakarta Sans';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    color: #83869A;
+}
+
+.icon-button{
+    
+    
+    height: 28px;
+    margin-top: 24px;
+    margin-left: 20px;
+    font-family: 'Plus Jakarta Sans';
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 28px;
+    color: #F74780;
+    border-style: none;
+    background-color: #FFFFFF;
+
+}
+
+footer{
+    margin-top: 80px;
+    width: 375px;
+    height: 120px;
+    background-color: #13183F;
+
+}
+
+.last-component{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.skilled-last{
+    width: 89px;
+    height: 35px;
+    font-family: 'Plus Jakarta Sans';
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 35.28px;
+    color: #FFFFFF;
+    margin-top: 43px;
+    margin-left: 16px;
+
+}
+
+.button-last{
+    width: 140px;
+    height: 48px;
+    border-radius: 28px;
+    border-style: none;
+    color: white;
+    margin-top: 36px;
+    margin-right: 16px;
+    font-family: 'Plus Jakarta Sans';
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 700;
+    background: linear-gradient(180deg, #4851FF 0%, #F02AA6 100%);
+}
+
+
+
+
+
+
+@media only screen and (min-width: 768px){
+
+    body{
+        max-width: 768px;
+        background-image: url(/assets/image-hero-tablet.png);
+        background-repeat: no-repeat;
+        background-size:650px 700px ;
+        background-position: top -5rem right -16.5rem;
+        background-attachment:initial;
+        /* overflow-x: hidden; */
+             
+    }
+
+   
+
+    .mobile-img{
+        display: none;
+    }
+
+    .popular-courses{
+        margin-top: 210px;
+        width: 339px;
+        height: 259px;
+
+    }
+
+    .maximize-container{
+        margin-top: 60px;
+        max-width: 50%;
+        
+    }
+
+    .heading-N1{
+        width: 768px;
+    }
+
+    .skilled{
+        padding: 31px 0 0 39px;
+       
+    } 
+
+    .button-N1{
+        margin: 24px 40px 0 0 ;
+    }
+
+
+   
+    .all-cards{ 
+        flex-wrap: wrap;
+        flex-direction: row;
+        align-items: flex-end;
+        
+    }
+
+    .intro{
+        display: inline-flex;
+        margin-left: 39px;
+    }
+
+    footer{
+        margin-top: 86px;
+        width: 768px;
+    
+    }
+
+    .skilled-last{
+       
+        margin-top: 43px;
+        margin-left: 40px;
+    
+    }
+
+    
+.button-last{
+   
+    margin-right: 39px;
+}
+}
+
+
+@media only screen and (min-width: 1440px){
+    body{
+        max-width: 1440px;
+        background-image: url(/assets/image-hero-desktop.png);
+        background-repeat: no-repeat;
+        background-size: 825px 800px ;
+        background-position: top -5rem right -13.5rem;
+        /* background-attachment: fixed; */
+       
+    }
+
+    .heading-N1{
+        width: 1440px;
+    }
+
+    .skilled{
+        padding: 45px 0 0 165px;
+       
+    } 
+
+    .button-N1{
+        margin: 24px 165px 0 0 ;
+    }
+
+
+    .intro{
+        margin-left: 165px;
+     
+        
+    }
+
+
+    .popular-courses{
+        margin-top: 250px;
+        width: 350px;
+        height: 322px;
+        border-radius: 15px;
+
+    }
+
+    .card{
+        width: 350px;
+        height: 322px;
+        border-radius: 15px;
+    
+    }
+
+    footer{
+        width: 1440px;
+    }
+
+    .button-N1:hover{
+        background-color: #666CA3;
+        cursor: pointer;
+    }
+
+    .button-N2:hover{
+        cursor: pointer;
+        background: linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%);
+    }
+
+    .button-last:hover{
+        cursor: pointer;
+        background: linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(180deg, #4851FF -54.32%, #F02AA6 100%);
+    }
+
+    .icon-button:hover{
+        cursor: pointer;
+        color: #FFA7C3;
+    }
+
+    
+}
